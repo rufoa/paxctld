@@ -1,0 +1,11 @@
+paxctld (1.0-2) unstable; urgency=low
+  * Fixed a missing quotation mark in upstart script, reported by
+    Andrew Alexander
+
+ -- Brad Spengler <spender@grsecurity.net>  Thu, 1 Jan 2015 11:51:00 -0500
+
+paxctld (1.0-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Brad Spengler <spender@grsecurity.net>  Tue, 16 Dec 2014 21:06:36 -0500

@@ -1,0 +1,2 @@
+misc:Depends=sysv-rc (>= 2.88dsf-24) | file-rc (>= 0.8.16)
+shlibs:Depends=libc6-amd64 (>= 2.7)
