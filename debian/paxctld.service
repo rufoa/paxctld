@@ -6,3 +6,6 @@ Before=sysinit.target
 
 [Service]
 ExecStart=/sbin/paxctld
+
+[Install]
+WantedBy=multi-user.target
